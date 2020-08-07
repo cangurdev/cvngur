@@ -1,8 +1,7 @@
 ### 👋 Hi there
 My name is Can Gür, Computer Engineering student living in Izmir.
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=cvngur&show_icons=true&count_private=true&hide=contribs,issue" />
-</p>
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=cvngur&show_icons=true" />
 
 ## 🧠 Know / Using
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height=48/>
