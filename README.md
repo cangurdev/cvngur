@@ -1,5 +1,5 @@
-### Hello World 
-👋 My name is Can Gür, Computer Engineering student living in Izmir.
+### 👋 Hi there
+My name is Can Gür, Computer Engineering student living in Izmir.
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=cvngur&show_icons=true&count_private=true&hide=contribs,issue" />
 </p>
