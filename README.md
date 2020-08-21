@@ -2,8 +2,8 @@
 My name is Can Gür, Computer Engineering student living in Izmir.
 
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
-[![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CodeEmAll/)
-[![Linkedin badge](https://img.shields.io/badge/cvngur-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cvngur/)
+[![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
+[![Linkedin badge](https://img.shields.io/badge/cvngur-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cvngur/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cvngur&show_icons=true" />
 
