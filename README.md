@@ -13,6 +13,6 @@ My name is Can Gür, 4th grade Computer Engineering student living in Izmir.
 <br>
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height=32/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height=48/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height=48/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height=48/>
 <br>
-<img height=48 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">  <img height=32 src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-<br>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height=48/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" height=48/> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height=48/> 
+<br>
+<img height=48 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">  <img height=32 src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
