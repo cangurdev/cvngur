@@ -1,5 +1,5 @@
 ### 👋 Hi there
-My name is Can Gür, 4th grade Computer Engineering student living in Izmir. I am improving myself to spend last periods of my education life in the most efficient way. Interested in backend development in the web field. Also learning mobile development. 
+My name is Can Gür, 4th grade Computer Engineering student living in Izmir. I am improving myself to spend last periods of my education life in the most efficient way. Interested in frontend and backend development in the web field. I'm currently looking for a job or longterm internship. 
 
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
 [![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
@@ -9,9 +9,7 @@ My name is Can Gür, 4th grade Computer Engineering student living in Izmir. I a
 
 ## 🧠 Know / Using
 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height=36 title="Python"/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height=36 title="Javascript"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height=36 title="Java"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height=36 title="Spring"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height=36  title="Postgresql"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height=36 title="MySQL">
-
- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height=36  title="Visual Studio Code"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height=36  title="Neovim"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height=36  title="Bash"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height=36  title="Linux"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height=36  title="Git"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height=36 title="Github">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height=36 title="Python"/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height=36 title="Javascript"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height=36 title="Java"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height=36 title="Spring"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height=36 title="Vue" /> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height=36  title="Postgresql"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height=36 title="MySQL"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height=36  title="Visual Studio Code"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height=36  title="Linux"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height=36  title="Git"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height=36 title="Github">
 
 ## Learning
 
