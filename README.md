@@ -1,5 +1,9 @@
 ### 👋 Hi there
-My name is Can Gür, 4th grade Computer Engineering student living in Izmir. I am improving myself to spend last periods of my education life in the most efficient way. Interested in frontend and backend development in the web field. I'm currently looking for a job or longterm internship. 
+My name is Can Gür, 4th grade Computer Engineering student living in Izmir. Interested in frontend and backend development in the web field.
+
+I have done projects with Spring Boot, Laravel, React, Python. Currently working on projects with Golang and Vue. You can check out projects on my Github page github.com/cvngur
+
+I have a Training on Industry Applications course in my last semester. I have to work full-time and at least 15 weeks. So, I am currently looking for a job or longterm internship as a backend / full-stack developer.
 
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
 [![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
