@@ -21,5 +21,5 @@ I have a Training on Industry Applications course in my last semester. I have to
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvngur&count_private=true&show_icons=true&theme=vision-friendly-dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvngur&langs_count=8&layout=compact&theme=vision-friendly-dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvngur&langs_count=8&layout=compact&theme=vision-friendly-dark&hide=scss,html">
 </div>
