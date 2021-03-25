@@ -1,5 +1,7 @@
 ### 👋 Hi there
-My name is Can Gür, senior Computer Engineering student living in Izmir. Interested in backend development.
+My name is Can Gür, 
+- Senior Computer Engineering student living in Izmir. 
+- Interested in frontend and backend development in the web field.
 
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
 [![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
