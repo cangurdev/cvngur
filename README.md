@@ -9,7 +9,7 @@ My name is Can Gür,
 -->
 ## Contact Me
 
-<a href="https://twitter.com/CodeEmAll"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=52/></a> <a href="https://www.linkedin.com/in/cangur/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=52 /></a> <a href="https://can-gur.medium.com/" > <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=52 /></a>
+<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=52/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=52 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=52/></a></p>
 <!--
 ## 🧠 Know / Using
 
