@@ -1,15 +1,15 @@
 ### 👋 Hi there
 My name is Can Gür, 
-- Senior Computer Engineering student living in Tekirdağ. 
 - Interested in frontend and backend development in the web field.
+- Currently looking for a job 👀 
 <!--
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
 [![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
 [![Instagram badge](https://img.shields.io/badge/cvngur-cd366b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/cangur/)
 -->
-## Contact Me
+## Social Accounts
 
-<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=52/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=52 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=52/></a></p>
+<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=52/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=52 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=52/></a><a href="https://www.hackerrank.com/CodeEmAll"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height=52/></a></p>
 <!--
 ## 🧠 Know / Using
 
