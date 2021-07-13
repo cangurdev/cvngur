@@ -1,15 +1,13 @@
 ### 👋 Hi there
-My name is Can Gür, 
-- Interested in frontend and backend development in the web field.
-- Currently looking for a job 👀 
+My name is Can Gür, I'm a Frontend Developer.
 <!--
 [![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
 [![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
 [![Instagram badge](https://img.shields.io/badge/cvngur-cd366b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/cangur/)
 -->
-## Social Accounts
+### Social Accounts
 
-<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=52/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=52 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=52/></a><a href="https://www.hackerrank.com/CodeEmAll"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height=52/></a></p>
+<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=32/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=32 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=32/></a></p>
 <!--
 ## 🧠 Know / Using
 
@@ -19,6 +17,8 @@ My name is Can Gür,
 
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" height=36 title="Golang"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height=36  title="Flutter"> 
 
+
+
 ## 📝 Github Stats
 
 <div>
@@ -26,3 +26,7 @@ My name is Can Gür,
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvngur&langs_count=8&layout=compact&theme=vision-friendly-dark&hide=scss,html">
 </div>
 -->
+<details>
+  <summary>Github Stats...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=cvngur&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+</details>
