@@ -1,32 +1,22 @@
 ### 👋 Hi there
-My name is Can Gür, I'm a Frontend Developer.
-<!--
-[![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
-[![Twitter badge](https://img.shields.io/badge/CodeEmAll-228dff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/CodeEmAll/)
-[![Instagram badge](https://img.shields.io/badge/cvngur-cd366b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/cangur/)
--->
+
+I'm a passionate software developer living in Izmir, Turkey, working for SIMPRA as Frontend Developer. I'm interested in web technologies.
+
+## Technologies & Tools
+
+<div style="display=flex">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height=36 title="React"/> 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height=36 title="TypeScript"/> 
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height=36 title="Javascript"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height=36 title="Node"> 
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height=36 title="SASS"/> 
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height=36 title="Visual Studio Code"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height=36 title="Git">
+</div>
+
 ### Social Accounts
 
-<p><a href="https://twitter.com/CodeEmAll"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height=32/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cangur/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height=32 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://can-gur.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height=32/></a></p>
-<!--
-## 🧠 Know / Using
+[![Linkedin badge](https://img.shields.io/badge/cangur-0654a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cangur/)
+[![Medium badge](https://img.shields.io/badge/can--gur-grey?style=for-the-badge&logo=medium&logoColor=white)](https://can-gur.medium.com/)
 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height=36 title="Python"/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height=36 title="Javascript"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height=36 title="Vue" /> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height=36 title="Java"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height=36 title="Spring"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" height=36  title="Couchbase"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height=36 title="MySQL"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height=36  title="Visual Studio Code"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height=36  title="Linux"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height=36  title="Git"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height=36 title="Github">
-
-## 📖 Learning
-
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" height=36 title="Golang"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height=36  title="Flutter"> 
-
-
-
-## 📝 Github Stats
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvngur&count_private=true&show_icons=true&theme=vision-friendly-dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvngur&langs_count=8&layout=compact&theme=vision-friendly-dark&hide=scss,html">
-</div>
--->
-<details>
-  <summary>Github Stats...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=cvngur&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-</details>
+[![Twitter badge](https://img.shields.io/twitter/follow/CodeEmAll?style=social)](https://www.twitter.com/CodeEmAll)
